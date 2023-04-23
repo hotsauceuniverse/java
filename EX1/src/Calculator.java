@@ -28,8 +28,6 @@ public class Calculator {
 		cal[3] = "나눗셈";
 		cal[4] = "종료";
 		
-		String cal_select;
-		
 		System.out.println("==========");
 		System.out.printf("1. %s%n", cal[0]);
 		System.out.printf("2. %s%n", cal[1]);
